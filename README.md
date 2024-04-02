@@ -2,7 +2,7 @@
 This repo is to document technical info and decissions about our ev conversion project.
 
 ## Pages
-* VCU Considerations
+* [VCU Considerations](./VCU_considerations.md)
 
 ## Timeline
 * 11-26-23 First meeting.

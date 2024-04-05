@@ -7,6 +7,11 @@
 ## Thunderstruck
 * [Buy $380 - $705 kit](https://www.thunderstruck-ev.com/dilithium-vcu.html)
 
+## Resolve Controller
+* [Resolve controller Euros 900](https://www.resolve-ev.com/shop/p/resolve-controller)
+
+## RippleTech
+* [REV Controller NZ$1,500](https://shop.rippletech.co.nz/#/rev)
 
 ## Roll Our Own
 * [Leaf Conversion Blog](https://leafdriveblog.wordpress.com/) and his [Source Code / Schematics](https://github.com/arber333/ESP32-VCU)

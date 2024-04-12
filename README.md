@@ -4,6 +4,7 @@ This repo is to document technical info and decissions about our ev conversion p
 ## Pages
 * [VCU Considerations](./VCU_considerations.md)
 * [Battery & BMS](./battery_BMS.md)
+* [Development Resources](./dev_sources.md)
 
 ## Milestone Log
 * 11-26-23 First meeting.

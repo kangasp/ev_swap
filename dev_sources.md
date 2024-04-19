@@ -18,3 +18,9 @@
 ### Wikis & Howtos
 * [CAN on a Teensy](https://openinverter.org/wiki/Getting_CAN_working_on_a_Teensy_3.6), openinverter wiki
 * [CAN on Arduino](https://openinverter.org/wiki/CAN_bus_with_Arduino_Due), with video on SavvyCAN
+
+### Mechanical Things
+* Wire / Fuse Boxes / etc [CE Auto Electric](https://ceautoelectricsupply.com/)
+* [more wirecare](https://www.wirecare.com/)
+* Google: wire TXL vs Thin Wall PVC
+* Google:  Type44 & Type55 wire

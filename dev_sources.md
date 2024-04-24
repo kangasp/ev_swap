@@ -8,6 +8,7 @@
 * [cangaroo](https://github.com/normaldotcom/cangaroo/)   old... but maybe?
 * [Teensy Can](https://openinverter.org/wiki/Getting_CAN_working_on_a_Teensy_3.6)
 * [TeensyRET](https://github.com/collin80/TeensyRET) - Reverse Engineering Tool, allows Teensy use with SavvyCAN
+* [Nissan CRC](https://github.com/collin80/CRC_Nissan)
 
 
 
